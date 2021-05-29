@@ -59,5 +59,4 @@ print("\nAfter removing the first item from the list:")
 items.delete_item('PHP')
 for val in items.iterate_item():
     print(val)
-![Exp15](https://user-images.githubusercontent.com/82803957/120069922-0cfddd00-c0a6-11eb-859f-c0697d5f3d2b.png)
-
+![Exp15](https://user-images.githubusercontent.com/82803957/120070162-13d91f80-c0a7-11eb-83df-c81a4fd321d6.png)
